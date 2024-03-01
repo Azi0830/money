@@ -200,6 +200,7 @@ h2 {
   margin-top: 130px;
   text-align: center;
   padding-top: 60px;
+  margin-bottom: 230px;
 }
 
 .about .text {
@@ -242,3 +243,29 @@ h2 {
   cursor: pointer;
 }
 /*about end */
+
+/*where*/
+
+.where {
+  width: 80%;
+  height: 120px;
+  margin: auto;
+  position: relative;
+  border-bottom: 1px sold #a6f309;
+}
+.where .text {
+  position: absolute;
+  top: 0;
+}
+.where .button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 234px;
+  height: 64px;
+  border-radius: 8px;
+  padding: 19px, 50px, 19px, 50px;
+  border: none;
+}
+
+/*where end*/
